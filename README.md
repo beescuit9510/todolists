@@ -31,9 +31,26 @@
 <!-- - view your most listend artists (last 4 weeks, last 6 months, all time) -->
 <!-- - view your most recently listend songs -->
 
-<!-- ## Screenshots -->
+## Screenshots
 
 <!-- ![Example screenshot](./img/screenshot.png) -->
+
+<!-- If you have screenshots you'd like to share, include them here. -->
+<p>
+    <img src="./readme/Screenshot 2023-02-27 at 15.42.03.png"  />
+</p>
+<p>
+    <img src="./readme/Screenshot 2023-02-27 at 15.28.27.png"  />
+</p>
+<p>
+    <img src="./readme/Screenshot 2023-02-27 at 15.28.04.png"  />
+</p>
+<p>
+    <img src="./readme/Screenshot 2023-02-27 at 15.30.53.png"  />
+</p>
+<p>
+    <img src="./readme/Screenshot 2023-02-27 at 15.34.55.png"  />
+</p>
 
 <!-- If you have screenshots you'd like to share, include them here. -->
 
