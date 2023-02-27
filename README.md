@@ -1,38 +1,78 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# TodoLists 
+> make to-do lists for things like grocery shopping, tasks around the house, and projects at work
 
-## Getting Started
+## Table of Contents
 
-First, run the development server:
+- [TodoLists](#TodoLists)
+- [Table of Contents](#table-of-contents)
+- [General Information](#general-information)
+- [Technologies Used](#technologies-used)
+- [Acknowledgements](#acknowledgements)
+- [Contact](#contact)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+## General Information
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- organize your schedule with Todolists
+- When you add an item to a list, you can set flags, date and time.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+- React
+- Next.js
+- Typescript
+- Recoil
+- MongoDB & Mongoose
+- Tailwind Css
+- firebase
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+<!-- ## Features -->
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<!-- - When you add an item to a list, you can set flags, date and time. -->
+<!-- - view your most listend artists (last 4 weeks, last 6 months, all time) -->
+<!-- - view your most recently listend songs -->
 
-## Learn More
+<!-- ## Screenshots -->
 
-To learn more about Next.js, take a look at the following resources:
+<!-- ![Example screenshot](./img/screenshot.png) -->
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+<!-- If you have screenshots you'd like to share, include them here. -->
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+<!--## Setup-->
+<!--What are the project requirements/dependencies? Where are they listed? A requirements.txt or a Pipfile.lock file perhaps? Where is it located?-->
 
-## Deploy on Vercel
+<!--Proceed to describe how to install / setup one's local environment / get started with the project.-->
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+<!--## Usage-->
+<!--How does one go about using it?-->
+<!--Provide various use cases and code examples here.-->
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+<!--`write-your-code-here`-->
+
+<!--## Project Status-->
+<!--Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.-->
+
+<!--## Room for Improvement-->
+<!--Include areas you believe need improvement / could be improved. Also add TODOs for future development.-->
+
+<!--Room for improvement:-->
+<!--- Improvement to be done 1-->
+<!--- Improvement to be done 2-->
+
+<!--To do:-->
+<!--- Feature to be added 1-->
+<!--- Feature to be added 2-->
+
+## Acknowledgements
+
+- This project was inspired by reminder on iOS
+
+## Contact
+
+This clone project is solely created by pengsoon20@gmail.com 
+feel free to contact me!
+
+<!-- Optional -->
+<!-- ## License -->
+<!-- This project is open source and available under the [... License](). -->
+
+<!-- You don't have to include all sections - just the one's relevant to your project -->
