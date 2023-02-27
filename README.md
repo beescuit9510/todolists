@@ -7,6 +7,7 @@
 - [Table of Contents](#table-of-contents)
 - [General Information](#general-information)
 - [Technologies Used](#technologies-used)
+- [Screenshots](#Screenshots)
 - [Acknowledgements](#acknowledgements)
 - [Contact](#contact)
 
