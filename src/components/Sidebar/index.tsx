@@ -16,7 +16,7 @@ const Sidebar: React.FC = () => {
     return <></>;
   }
 
-  if (user === undefined) {
+  if (user === undefined || user === null) {
     router.push('/login');
   }
 

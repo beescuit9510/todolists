@@ -235,9 +235,12 @@ const ListTodoItem: React.FC<ListTodoItemProps> = ({
                 </Flex>
               </Stack>
             </Flex>
-            <Collapse in={isEditMode || !todoNote == false}>
+            <Collapse
+              className='flex w-full'
+              in={isEditMode || !todoNote == false}
+            >
               <ReactTextareaAutosize
-                className='outline-0 resize-none flex-grow text-sm text-gray-500'
+                className='outline-0 resize-none text-sm text-gray-500 flex-grow w-full'
                 value={todoNote}
                 placeholder={'Notes'}
                 onChange={onChangeNotes}
