@@ -80,14 +80,6 @@
 <!--- Feature to be added 1-->
 <!--- Feature to be added 2-->
 
-## Acknowledgements
-
-- This project was inspired by reminder on iOS
-
-## Contact
-
-This clone project is solely created by pengsoon20@gmail.com 
-feel free to contact me!
 
 <!-- Optional -->
 <!-- ## License -->
